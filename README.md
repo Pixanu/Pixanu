@@ -3,7 +3,7 @@
 
 Skills: C++/ C# / Python / SQL
 
-- 🔭 I’m currently working as a Data Engineer Trainee at Sparta Global 
+- 🔭 I’m currently working as a Data Engineer at Sparta Global 
 - 🌱 I’m currently learning Python and SQL 
 - 🤔 I’m looking for help with Databases 
 - 📫 How to reach me: aivan@spartaglobal.com 
