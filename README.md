@@ -1,11 +1,9 @@
 ### Hi there 👋, Alexandru Ivan 
-#### Data Engineer
+#### Business Data Analyst
 
 Skills: C++/ C# / Python / SQL
 
-- 🔭 I’m currently working as a Data Engineer at Sparta Global 
-- 🌱 I’m currently learning Python and SQL 
-- 🤔 I’m looking for help with Databases 
+- 🔭 Using my data and business competencies to use in a national data migration project for the public sector as a Business Data Analyst. 
 - 📫 How to reach me: aivan@spartaglobal.com 
 
 
